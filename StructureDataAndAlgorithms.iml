@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/scr/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExamplePrograms" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap03" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap04" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap05" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap06" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap07" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap08/tree" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap10/tree234" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap11" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap12" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap13" />
+      <excludeFolder url="file://$MODULE_DIR$/ExamplePrograms/Chap14" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
